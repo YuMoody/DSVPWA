@@ -1,4 +1,4 @@
-name: Bandit
+name: Bandit YAML
 
 on: [push, pull_request]
 
