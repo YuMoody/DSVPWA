@@ -1,6 +1,6 @@
 name: Bandit
 
-on: [push, pull_request]branch_protection_rule: 
+on: [push, pull_request]
 
 jobs:
   bandit:
